@@ -1,0 +1,122 @@
+/* * {
+    border: 1px solid black;
+} */
+
+
+/* nav bar  */
+
+nav {
+    color: black;
+    font-size: 1em;
+}
+
+.logo {
+    font-size: 2em;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+/* header section */
+
+.container1 {
+    margin: 5% 0;
+}
+
+.description {
+    font-size: 1.5em;
+}
+
+.nav2 {
+    margin: 2% 0;
+}
+
+h6~a {
+    font-size: 1.3em;
+    font-weight: 700;
+}
+
+h5 {
+    color: white;
+}
+
+.nav-1>li {
+    border: 1px solid grey;
+    margin-right: 1em;
+    padding: .5em;
+    display: inline-block;
+}
+
+
+/* second container */
+
+.container2 {
+    margin: 0 1%;
+}
+
+.articles {
+    margin: 5% 0%;
+    border-bottom: 1px solid grey;
+}
+
+.articleAd {
+    border-style: none;
+}
+
+.ad {
+    background-color: rgb(215, 215, 215);
+    width: 100%;
+    height: 30vh;
+    justify-content: center;
+    padding: 1em 0 0;
+    display: flex;
+}
+
+
+/* newsletter section */
+
+.newsletter {
+    background-color: rgb(60, 60, 60);
+    color: white;
+    margin: auto;
+    padding: 2.5em;
+    width: 80%;
+}
+
+.follow {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* footer section */
+
+.h-workout {
+    text-align: center;
+    padding: 2em;
+    font-size: .8em;
+    color: rgb(101, 101, 101);
+}
+
+footer {
+    background-color: rgb(60, 60, 60);
+    color: white;
+    padding: 2em;
+}
+
+footer~li.a {
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
